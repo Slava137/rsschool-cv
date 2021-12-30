@@ -46,6 +46,7 @@ I don't have any experience as a Frontend Developer yet.
 -----
 ## Education:
 * **BELARUSIAN-RUSSIAN UNIVERSITY** (Faculty of Electrical Engineering)
+
 -----
 ## Languages:
 * Russian - Native
