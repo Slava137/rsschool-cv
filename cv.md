@@ -4,6 +4,7 @@
 * **E-mail:** slava13071995@gmail.com
 * **Discord:** Vyacheslav (@Slava137)
 * **Telegram:** @Snow13
+
 -----
 ## Briefly about me:
 *My main goal is to find job that I'll like. I'm ready to learn a new skills, that will help me in my new 
