@@ -33,7 +33,7 @@ body {
     text-decoration: none;
     padding: 0 20px;
     line-height: 40px;
-    transition: .5s;
+    transition: 1.3s;
 }
 .main {
     background-color: #c1f7c1;
@@ -41,7 +41,7 @@ body {
 .container_2 {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
      }
 .section {
     width: 50%;
@@ -54,6 +54,7 @@ body {
       font-weight: bold;
       letter-spacing: 2px;
       text-transform: uppercase;
+      text-align: center;
   }
 
 .footer {
